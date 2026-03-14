@@ -163,7 +163,7 @@ The third parties we may share personal information with are as follows:
 
 *   **Advertising, Direct Marketing, and Lead Generation**
 
-Google AdSense
+Google AdMob
 
 We also may need to share your personal information in the following situations:
 
@@ -175,11 +175,8 @@ We also may need to share your personal information in the following situations:
 
 ## 5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
-**_In Short:_** _We may use cookies and other tracking technologies to collect and store your information._
+Our mobile application does not use cookies or similar tracking technologies.
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
-
-We also permit third parties and service providers to use online tracking technologies on our Services for analytics and advertising, including to help manage and display advertisements, to tailor advertisements to your interests, or to send abandoned shopping cart reminders (depending on your communication preferences). The third parties and service providers use their technology to provide advertising about products and services tailored to your interests which may appear either on our Services or on other websites.
 
 To the extent these online tracking technologies are deemed to be a "sale"/"sharing" (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can opt out of these online tracking technologies by submitting a request as described below under section "[DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#uslaws)"
 
@@ -189,7 +186,7 @@ Specific information about how we use such technologies and how you can refuse c
 
 **_In Short:_** _We may transfer, store, and process your information in countries other than your own._
 
-Our servers are located in. Regardless of your location, please be aware that your information may be transferred to, stored by, and processed by us in our facilities and in the facilities of the third parties with whom we may share your personal information (see "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)" above), including facilities in and other countries.
+Our application does not store data on external servers. Regardless of your location, please be aware that your information may be transferred to, stored by, and processed by us in our facilities and in the facilities of the third parties with whom we may share your personal information (see "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)" above), including facilities in and other countries.
 
 If you are a resident in the European Economic Area (EEA), United Kingdom (UK), or Switzerland, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in accordance with this Privacy Notice and applicable law.
 
@@ -292,7 +289,7 @@ You have rights under certain US state data protection laws. However, these righ
 
 ### How to Exercise Your Rights
 
-To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/dsar/9b45bd39-9fad-4d24-8352-0628cd3d2a4c), by emailing us at \_\_\_\_\_\_\_\_\_\_, or by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/dsar/9b45bd39-9fad-4d24-8352-0628cd3d2a4c), by emailing us at "products.sbm@gmail.com" , or by referring to the contact details at the bottom of this document.
 
 Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.  
 
@@ -312,7 +309,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may contact us by post at:
 
-\_\_\_\_\_\_\_\_\_\_
+Soumyabrata Maji
 
 Kali Mandir Road, Rupnarayanpur
 
