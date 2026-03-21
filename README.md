@@ -307,15 +307,9 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may contact us by post at:
+If you have questions or comments about this notice, you may contact us at:
 
-Soumyabrata Maji
-
-Kali Mandir Road, Rupnarayanpur
-
-Asansol, West Bengal 713364
-
-India
+Email: products.sbm@gmail.com
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
